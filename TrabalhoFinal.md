@@ -2,11 +2,8 @@
 
 ## Comparação entre diferentes tipos de energias renováveis 
 
-<iframe width="100%" height="123" frameborder="0"
-  src="https://observablehq.com/embed/a5bfb7b8f9b364e4?cells=viewof+year"></iframe>
-
-<iframe width="100%" height="822" frameborder="0"
-  src="https://observablehq.com/embed/a5bfb7b8f9b364e4?cells=viewof+dashboard"></iframe>
+<iframe width="100%" height="886" frameborder="0"
+  src="https://observablehq.com/embed/a5bfb7b8f9b364e4@358?cells=viewof+year%2Cviewof+dashboard"></iframe>
 
 ## Produção por ano
 
