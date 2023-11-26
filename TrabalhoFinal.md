@@ -7,5 +7,5 @@
 
 ## Produção por ano
 
-<iframe width="100%" height="269" frameborder="0"
-  src="https://observablehq.com/embed/a5bfb7b8f9b364e4@314?cells=lineGraph"></iframe>
+<iframe width="100%" height="569" frameborder="0"
+  src="https://observablehq.com/embed/a5bfb7b8f9b364e4@358?cells=plot%2Chover"></iframe>
