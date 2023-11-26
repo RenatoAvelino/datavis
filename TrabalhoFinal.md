@@ -1,7 +1,11 @@
 # Trabalho Final DataVis
-<iframe width="100%" height="568.265625" frameborder="0"
-  src="https://observablehq.com/embed/e9961a008011e6b6@117?cells=barras"></iframe>
 
-# Scatterplot de MPG x Aceleração por Origem do Veículo
-<iframe width="100%" height="487.1875" frameborder="0"
-  src="https://observablehq.com/embed/e9961a008011e6b6@117?cells=scatter"></iframe>
+## Comparação entre diferentes tipos de energias renováveis 
+
+<iframe width="100%" height="822" frameborder="0"
+  src="https://observablehq.com/embed/a5bfb7b8f9b364e4@314?cells=viewof+dashboard"></iframe>
+
+## Produção por ano
+
+<iframe width="100%" height="269" frameborder="0"
+  src="https://observablehq.com/embed/a5bfb7b8f9b364e4@314?cells=lineGraph"></iframe>
